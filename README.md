@@ -20,6 +20,8 @@ The initial phase of the recommendation system is designed to cater to the needs
 4. **Enhancing Customer Experience**: By focusing on product popularity, the system improves the chances of attracting new customers and making their first interactions with the website more fruitful. This contributes to customer acquisition, retention, and creating a positive first impression.
 
 ## Personalized Recommendation
+![image](https://github.com/priyansh2120/recommendation-grid/assets/96059277/506b31c1-33d3-4607-99a1-ea5af68c2d0f)
+
 
 ## Generating Synthetic Data for Testing
 
