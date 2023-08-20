@@ -3,6 +3,8 @@
 
 Welcome to the "Recommendation System - The Cold Start" project repository! This project addresses the cold start problem in recommendation systems. Specifically, it focuses on recommending products to new customers who are visiting an e-commerce website for the first time or are new users with unknown preferences.
 
+![image](https://github.com/priyansh2120/recommendation-grid/assets/96059277/b74b3fb9-7f30-4709-8617-0ce099958e4a)
+
 ## The Cold Start Problem
 
 The cold start problem is a common challenge in recommendation systems. When dealing with new customers or users, there is a lack of historical data and interactions to base recommendations on. This makes it difficult to provide personalized recommendations using traditional collaborative or content-based filtering methods. The solution lies in employing strategies that don't rely on user history.
@@ -20,6 +22,8 @@ The initial phase of the recommendation system is designed to cater to the needs
 4. **Enhancing Customer Experience**: By focusing on product popularity, the system improves the chances of attracting new customers and making their first interactions with the website more fruitful. This contributes to customer acquisition, retention, and creating a positive first impression.
 
 ## Personalized Recommendation
+![image](https://github.com/priyansh2120/recommendation-grid/assets/96059277/506b31c1-33d3-4607-99a1-ea5af68c2d0f)
+
 
 ## Generating Synthetic Data for Testing
 
