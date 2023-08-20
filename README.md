@@ -1,5 +1,4 @@
-# Recommendation System - The Cold Start
-
+# Personalised Recommendation
 ## Introduction
 
 Welcome to the "Recommendation System - The Cold Start" project repository! This project addresses the cold start problem in recommendation systems. Specifically, it focuses on recommending products to new customers who are visiting an e-commerce website for the first time or are new users with unknown preferences.
